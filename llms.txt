@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu piel canela me llama en la madrugada
+> Brillando fuerte bajo las luces de la calle
+> Ese movimiento suave donde no dices nada
+> Pero tus ojos piden que la noche estalle
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ba00f6cf80e9169c9733ccb612e65a9bfe8b9734785813c8987f2d6af9544f9` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

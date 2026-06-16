@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-canela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu piel canela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-canela/) |
+| **Get License** | [Secure Licensing Rights for Tu piel canela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-canela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ba00f6cf80e9169c9733ccb612e65a9bfe8b9734785813c8987f2d6af9544f9` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

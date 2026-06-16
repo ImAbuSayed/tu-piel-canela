@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu piel canela
+
+This log tracks the cryptographic history and versioning for the song **Tu piel canela** (tu-piel-canela).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:18:26.589385 | `v1` | `7ba00f6cf80e9169c9733ccb612e65a9bfe8b9734785813c8987f2d6af9544f9` | `ad6bc2a5ec2dee670023bfc83fe44e8e8636964e2b306092984fd7cd98237e8a` | `2026-06-16_tu-piel-canela-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
