@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-canela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu piel canela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-canela/) |
+| **Get License** | [Request Licensing for Tu piel canela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-canela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu piel canela me llama en la madrugada
+> Brillando fuerte bajo las luces de la calle
+> Ese movimiento suave donde no dices nada
+> Pero tus ojos piden que la noche estalle
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
